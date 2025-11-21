@@ -28,8 +28,26 @@ Específicamente en relación con México, y siguiendo el análisis del autor, e
 
 https://github.com/user-attachments/assets/9a2c7aa0-a83e-40dd-87eb-5e726baffd9b
 
+### Evolución del PIB:
+<img width="1172" height="526" alt="Evolución del PIB" src="https://github.com/user-attachments/assets/8dd97598-ac17-4688-badd-f31533a6027d" />
+
+### Composición del PIB
+<img width="1218" height="503" alt="composición del pib" src="https://github.com/user-attachments/assets/ef9d41bb-c747-4864-8a75-b7020104d3c9" />
+
+### IGAE: Tasas de crecimiento anual total
+<img width="1134" height="522" alt="igae_tasas_crec" src="https://github.com/user-attachments/assets/5e2ddd71-0060-4d5b-8fe6-68e6a0aecb55" />
+
+### Tasa de desempleo
+<img width="1147" height="513" alt="Captura de pantalla 2025-11-21 150723" src="https://github.com/user-attachments/assets/5caed3a4-6130-4e1c-b661-5773e8be263c" />
+
+### El sector manufacturero (EAIM)
+
+<img width="1238" height="639" alt="Captura de pantalla 2025-11-21 150857" src="https://github.com/user-attachments/assets/f60f8d00-e714-46b0-be2f-c6ea40113ca5" />
+
+
 ### Interfaz Interactiva:
 
 - Desarrollada en Streamlit.
 
 - Permite ajustar el número de clusters ($k$) en tiempo real para dinamizar el análisis.
+
