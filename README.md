@@ -1,7 +1,6 @@
 # Modelo de Insumo Producto y Clustering
 -----------------------------------------
-Link de acceso:
-<!--(https://modeloipclustering-datascienceandeconomics.streamlit.app/) -->
+[Acceso a la aplicación](https://modeloipclustering-datascienceandeconomics.streamlit.app/)
 
 Este proyecto integra la Teoría Económica Estructural (Modelo Insumo-Producto de Leontief) con técnicas de Ciencia de Datos (Aprendizaje No Supervisado) para analizar la estructura productiva de la industria manufacturera.
 
