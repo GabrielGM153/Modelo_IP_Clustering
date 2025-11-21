@@ -8,7 +8,7 @@ Para su desarrollo, se toma como referencia principal (y también como marco te�
 
 En este contexto, Aroche (2019) comenta que Kaldor (1966) entiende al sector manufacturero como motor económico. En este sentido, el autor identifica el por qué el sector manufacturero es tan importante en términos de crecimiento económico; esto es, porque (y lo menciona de igual manera), este sector tiene gran importancia en la demanda de insumos, que posteriormente convierte en producto que expande la actividad económica dentro de otros sectores; es un impulso de crecimiento para los demás sectores.
 
-En la lectura el modelo IP se refiere al modelo de insumo producto, de Leontief, mismo que describe cómo es que los sectores dentro de una economía están interconectados.
+En la lectura el modelo IP se refiere al modelo de insumo-producto, de Leontief, mismo que describe cómo es que los sectores dentro de una economía están interconectados.
 
 Siguiendo esta idea, el modelo IP sigue la premisa básica, que es paralela a lo que comenta Aroche (2019), con respecto al sector manufacturero, en el sentido de que cada sector produce bienes y servicios que sirven como insumos para otros sectores, esta dinámica tiene un comportamiento de oferta y demanda entre sectores.
 
@@ -24,7 +24,7 @@ Específicamente en relación con México, y siguiendo el análisis del autor, e
 
 •	Intercambios totales.
 
-### Aproximación teórica y ejemplo:
+### Aproximación teórica y ejemplo (animación en Manim):
 
 https://github.com/user-attachments/assets/9a2c7aa0-a83e-40dd-87eb-5e726baffd9b
 
