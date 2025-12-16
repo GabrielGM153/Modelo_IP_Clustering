@@ -2,11 +2,9 @@
 -----------------------------------------
 [Acceso al Dashboard interactivo](https://modeloipclustering-datascienceandeconomics.streamlit.app/)
 
-Este proyecto integra la Teoría Económica Estructural (Modelo Insumo-Producto de Leontief) con técnicas de Ciencia de Datos (Aprendizaje No Supervisado) para analizar la estructura productiva de la industria manufacturera.
+Este documento es la presentación formal de un proyecto que desarrollé hace un tiempo; en él se ejercie el análisis económico aplicado al sector manufacturero a través de la aplicación del algoritmo K-means. Se muestra que al igual que señala Aroche (2019), dicho sector puede ser potenciador crecimiento económico en México, pero en este proyecto se precisa qué segmento sectorial lleva al crecimiento, cuál llevaría a la innovación, reducción de la tasa de desempleo, o bien, a la competitividad; dependiendo de los objetivos en términos políticos.
 
-Para su desarrollo, se toma como referencia principal (y también como marco teórico) el trabajo tanto empirico como teórico de Aroche (2019) y el fundamento de economía matemática realizado por Chiang y Wainwright (2006) 
-
-En este contexto, Aroche (2019) comenta que Kaldor (1966) entiende al sector manufacturero como motor económico. En este sentido, el autor identifica el por qué el sector manufacturero es tan importante en términos de crecimiento económico; esto es, porque (y lo menciona de igual manera), este sector tiene gran importancia en la demanda de insumos, que posteriormente convierte en producto que expande la actividad económica dentro de otros sectores; es un impulso de crecimiento para los demás sectores.
+Es una muestra de la intersección del análisis económico y los métodos de la ciencia de datos
 
 En la lectura el modelo IP se refiere al modelo de insumo-producto, de Leontief, mismo que describe cómo es que los sectores dentro de una economía están interconectados.
 
