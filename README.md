@@ -1,4 +1,4 @@
-# Modelo de Insumo Producto y Clustering
+# Modelo de Insumo Producto y Clustering del Sector Manufacturero
 -----------------------------------------
 [Acceso al Dashboard interactivo](https://modeloipclustering-datascienceandeconomics.streamlit.app/)
 
