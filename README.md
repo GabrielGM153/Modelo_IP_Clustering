@@ -4,11 +4,11 @@
 
 Este documento es la presentación formal de un proyecto que desarrollé hace un tiempo; en él se ejercie el análisis económico aplicado al sector manufacturero a través de la aplicación del algoritmo K-means. Se muestra que al igual que señala Aroche (2019), dicho sector puede ser potenciador crecimiento económico en México, pero en este proyecto se precisa qué segmento sectorial lleva al crecimiento, cuál llevaría a la innovación, reducción de la tasa de desempleo, o bien, a la competitividad; dependiendo de los objetivos en términos políticos.
 
-Es una muestra de la intersección del análisis económico y los métodos de la ciencia de datos
+Es una muestra de la intersección del análisis económico y los métodos de la ciencia de datos.
 
-En la lectura el modelo IP se refiere al modelo de insumo-producto, de Leontief, mismo que describe cómo es que los sectores dentro de una economía están interconectados.
+En la lectura, el modelo IP se refiere al modelo de insumo-producto de Leontief, mismo que describe cómo es que los sectores dentro de una economía están interconectados. Este enfoque deja abierta la puerta para que, en etapas posteriores, la segmentación lograda mediante la clusterización se utilice en el desarrollo del modelo de insumo-producto, tomando como base teórica la segmentación previamente obtenida y los aportes específicos de esta investigación.
 
-Siguiendo esta idea, el modelo IP sigue la premisa básica, que es paralela a lo que comenta Aroche (2019), con respecto al sector manufacturero, en el sentido de que cada sector produce bienes y servicios que sirven como insumos para otros sectores, esta dinámica tiene un comportamiento de oferta y demanda entre sectores.
+Y que, siguiendo esta idea, el modelo IP sigue la premisa básica, que es paralela a lo que comenta Aroche (2019), con respecto al sector manufacturero, en el sentido de que cada sector produce bienes y servicios que sirven como insumos para otros sectores, esta dinámica tiene un comportamiento de oferta y demanda entre sectores.
 
 Y siguiendo dicho concepto, con la que se trabaja en el artículo, el modelo IP lo identifica el autor como un modelo que sirve para la aplicación a corto plazo basado en la reproducción simple, en donde el análisis tiene una naturaleza matricial; en este modelo se dividen las matrices y vectores para encontrar el grado de dependencia de ciertos sectores  otros. De ahí es donde entra en acción práctica la ley de Kaldor-Verdroom, misma que se refiere a cómo es que una división entre sectores (siendo esta el sector manufacturero y los otros); se puede potenciar el crecimiento económico teniendo al sector manufacturero como base. 
 
